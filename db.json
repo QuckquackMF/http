@@ -1,1 +1,35 @@
+{
+  "prenotazioni": [
+    {
+      "id": 1,
+      "data": "2019-10-10",
+      "ora": "7.30",
+      "nome": "Giovanni",
+      "cognome": "Pinguini",
+      "indirizzo": "Via Zoo 12",
+      "telefono": "348911012",
+      "email": "penguin@antartide.com"
+    },
+    {
+      "id": 2,
+      "data": "2019-12-19",
+      "ora": "8.30",
+      "nome": "Mino",
+      "cognome": "Rinoceronti",
+      "indirizzo": "Via Savana 9",
+      "telefono": "3456789012",
+      "email": "mino@rinoceronti.it"
+    },
+    {
+      "id": 3,
+      "data": "2019-11-15",
+      "ora": "10.30",
+      "nome": "Gino",
+      "cognome": "Giraffi",
+      "indirizzo": "Via Africa 7",
+      "telefono": "3491234567",
+      "email": "gino@giraffe.net"
+    }
+  ]
+}
 
