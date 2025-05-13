@@ -1,275 +1,272 @@
-{
-  "prenotazioni": [
-    {
-      "id": 1,
-      "data": "2019-10-10",
-      "ora": "7.30",
-      "nome": "Giovanni",
-      "cognome": "Pinguini",
-      "indirizzo": "Via Zoo 12",
-      "telefono": "348911012",
-      "email": "penguin@antartide.com"
-    },
-    {
-      "id": 2,
-      "data": "2019-12-19",
-      "ora": "8.30",
-      "nome": "Mino",
-      "cognome": "Rinoceronti",
-      "indirizzo": "Via Savana 9",
-      "telefono": "3456789012",
-      "email": "mino@rinoceronti.it"
-    },
-    {
-      "id": 3,
-      "data": "2019-11-15",
-      "ora": "10.30",
-      "nome": "Gino",
-      "cognome": "Giraffi",
-      "indirizzo": "Via Africa 7",
-      "telefono": "3491234567",
-      "email": "gino@giraffe.net"
-    },
-    {
+[
+  {
+    "id": 1,
+    "nome": "Giovanni",
+    "cognome": "Pinguini",
+    "indirizzo": "Via Zoo 12",
+    "telefono": "348911012",
+    "email": "penguin@antartide.com",
+    "data": "2019-10-10",
+    "ora": "7.30"
+  },
+  {
+    "id": 2,
+    "nome": "Mino",
+    "cognome": "Rinoceronti",
+    "indirizzo": "Via Savana 9",
+    "telefono": "3456789012",
+    "email": "mino@rinoceronti.it",
+    "data": "2019-12-19",
+    "ora": "8.30"
+  },
+  {
+    "id": 3,
+    "nome": "Gino",
+    "cognome": "Giraffi",
+    "indirizzo": "Via Africa 7",
+    "telefono": "3491234567",
+    "email": "gino@giraffe.net",
+    "data": "2019-11-15",
+    "ora": "10.30"
+  },
+  {
     "id": 4,
-    "data": "2020-01-22",
-    "ora": "9.00",
     "nome": "Laura",
     "cognome": "Leopardi",
     "indirizzo": "Corso Felini 5",
     "telefono": "3334567890",
-    "email": "laura.leopardi@junglemail.com"
-    },
-    {
+    "email": "laura.leopardi@junglemail.com",
+    "data": "2020-01-22",
+    "ora": "9.00"
+  },
+  {
     "id": 5,
-    "data": "2020-03-05",
-    "ora": "14.45",
     "nome": "Paolo",
     "cognome": "Panda",
     "indirizzo": "Viale Bambù 18",
     "telefono": "3470123456",
-    "email": "paolo.panda@bamboo.org"
-    },
-    {
+    "email": "paolo.panda@bamboo.org",
+    "data": "2020-03-05",
+    "ora": "14.45"
+  },
+  {
     "id": 6,
-    "data": "2019-09-01",
-    "ora": "16.00",
     "nome": "Sara",
     "cognome": "Scimmie",
     "indirizzo": "Piazza Alberi 3",
     "telefono": "3398765432",
-    "email": "sara.scimmie@monkeymail.com"
-    },
-    {
+    "email": "sara.scimmie@monkeymail.com",
+    "data": "2019-09-01",
+    "ora": "16.00"
+  },
+  {
     "id": 7,
-    "data": "2020-02-10",
-    "ora": "11.15",
     "nome": "Marco",
     "cognome": "Castori",
     "indirizzo": "Lungo Fiume 21",
     "telefono": "3409876543",
-    "email": "marco.castori@beaver.net"
-    },
-    {
+    "email": "marco.castori@beaver.net",
+    "data": "2020-02-10",
+    "ora": "11.15"
+  },
+  {
     "id": 8,
-    "data": "2019-07-28",
-    "ora": "17.30",
     "nome": "Elena",
     "cognome": "Elefanti",
     "indirizzo": "Via Grandi Orecchie 1",
     "telefono": "3351122334",
-    "email": "elena.elefanti@savana.com"
-    },
-    {
+    "email": "elena.elefanti@savana.com",
+    "data": "2019-07-28",
+    "ora": "17.30"
+  },
+  {
     "id": 9,
-    "data": "2020-04-12",
-    "ora": "13.00",
     "nome": "Luca",
     "cognome": "Lupi",
     "indirizzo": "Sentiero Bosco 4",
     "telefono": "3462233445",
-    "email": "luca.lupi@forestmail.net"
-    },
-    {
+    "email": "luca.lupi@forestmail.net",
+    "data": "2020-04-12",
+    "ora": "13.00"
+  },
+  {
     "id": 10,
-    "data": "2019-06-05",
-    "ora": "9.45",
     "nome": "Sofia",
     "cognome": "Serpenti",
     "indirizzo": "Vicolo Strisciante 15",
     "telefono": "3383344556",
-    "email": "sofia.serpenti@snake.org"
-    },
-    {
+    "email": "sofia.serpenti@snake.org",
+    "data": "2019-06-05",
+    "ora": "9.45"
+  },
+  {
     "id": 11,
-    "data": "2020-05-20",
-    "ora": "15.15",
     "nome": "Andrea",
     "cognome": "Aquile",
     "indirizzo": "Cima Vetta 2",
     "telefono": "3494455667",
-    "email": "andrea.aquile@skyhigh.com"
-    },
-    {
+    "email": "andrea.aquile@skyhigh.com",
+    "data": "2020-05-20",
+    "ora": "15.15"
+  },
+  {
     "id": 12,
-    "data": "2019-08-18",
-    "ora": "11.00",
     "nome": "Martina",
     "cognome": "Balene",
     "indirizzo": "Largo Oceano 8",
     "telefono": "3375566778",
-    "email": "martina.balene@blueseas.it"
-    },
-    {
+    "email": "martina.balene@blueseas.it",
+    "data": "2019-08-18",
+    "ora": "11.00"
+  },
+  {
     "id": 13,
-    "data": "2020-06-25",
-    "ora": "18.45",
     "nome": "Riccardo",
     "cognome": "Conigli",
     "indirizzo": "Via Tana 11",
     "telefono": "3406677889",
-    "email": "riccardo.conigli@rabbitmail.com"
-    },
-    {
+    "email": "riccardo.conigli@rabbitmail.com",
+    "data": "2020-06-25",
+    "ora": "18.45"
+  },
+  {
     "id": 14,
-    "data": "2019-11-02",
-    "ora": "10.00",
     "nome": "Francesca",
     "cognome": "Formiche",
     "indirizzo": "Sotto Terra 6",
     "telefono": "3397788990",
-    "email": "francesca.formiche@ant.net"
-    },
-    {
+    "email": "francesca.formiche@ant.net",
+    "data": "2019-11-02",
+    "ora": "10.00"
+  },
+  {
     "id": 15,
-    "data": "2020-07-10",
-    "ora": "14.00",
     "nome": "Simone",
     "cognome": "Zebre",
     "indirizzo": "Pianura Strisciata 14",
     "telefono": "3458899001",
-    "email": "simone.zebre@stripes.org"
-    },
-    {
+    "email": "simone.zebre@stripes.org",
+    "data": "2020-07-10",
+    "ora": "14.00"
+  },
+  {
     "id": 16,
-    "data": "2019-09-23",
-    "ora": "12.30",
     "nome": "Alessia",
     "cognome": "Coccodrilli",
     "indirizzo": "Fiume Lento 19",
     "telefono": "3339900112",
-    "email": "alessia.coccodrilli@swamp.com"
-    },
-    {
+    "email": "alessia.coccodrilli@swamp.com",
+    "data": "2019-09-23",
+    "ora": "12.30"
+  },
+  {
     "id": 17,
-    "data": "2020-08-05",
-    "ora": "16.30",
     "nome": "Matteo",
     "cognome": "Orsi",
     "indirizzo": "Grotta Montana 7",
     "telefono": "3470011223",
-    "email": "matteo.orsi@bearmail.net"
-    },
-    {
+    "email": "matteo.orsi@bearmail.net",
+    "data": "2020-08-05",
+    "ora": "16.30"
+  },
+  {
     "id": 18,
-    "data": "2019-12-08",
-    "ora": "8.00",
     "nome": "Giulia",
     "cognome": "Farfalle",
     "indirizzo": "Giardino Fiorito 22",
     "telefono": "3381122334",
-    "email": "giulia.farfalle@butterfly.org"
-    },
-    {
+    "email": "giulia.farfalle@butterfly.org",
+    "data": "2019-12-08",
+    "ora": "8.00"
+  },
+  {
     "id": 19,
-    "data": "2020-09-15",
-    "ora": "17.00",
     "nome": "Federico",
     "cognome": "Leoni",
     "indirizzo": "Savana Dorata 10",
     "telefono": "3492233445",
-    "email": "federico.leoni@lionking.com"
-    },
-    {
+    "email": "federico.leoni@lionking.com",
+    "data": "2020-09-15",
+    "ora": "17.00"
+  },
+  {
     "id": 20,
-    "data": "2019-07-01",
-    "ora": "13.30",
     "nome": "Chiara",
     "cognome": "Pappagalli",
     "indirizzo": "Foresta Tropicale 16",
     "telefono": "3373344556",
-    "email": "chiara.pappagalli@parrotmail.net"
-    },
-    {
+    "email": "chiara.pappagalli@parrotmail.net",
+    "data": "2019-07-01",
+    "ora": "13.30"
+  },
+  {
     "id": 21,
-    "data": "2020-10-28",
-    "ora": "9.15",
     "nome": "Alessandro",
     "cognome": "Cammelli",
     "indirizzo": "Deserto Caldo 5",
     "telefono": "3404455667",
-    "email": "alessandro.cammelli@desert.org"
-    },
-    {
+    "email": "alessandro.cammelli@desert.org",
+    "data": "2020-10-28",
+    "ora": "9.15"
+  },
+  {
     "id": 22,
-    "data": "2019-10-20",
-    "ora": "15.45",
     "nome": "Beatrice",
     "cognome": "Tartarughe",
     "indirizzo": "Spiaggia Tranquilla 12",
     "telefono": "3395566778",
-    "email": "beatrice.tartarughe@turtlemail.com"
-    },
-    {
+    "email": "beatrice.tartarughe@turtlemail.com",
+    "data": "2019-10-20",
+    "ora": "15.45"
+  },
+  {
     "id": 23,
-    "data": "2020-11-05",
-    "ora": "11.30",
     "nome": "Edoardo",
     "cognome": "Ghepardi",
     "indirizzo": "Pianura Veloce 3",
     "telefono": "3456677889",
-    "email": "edoardo.ghepardi@speedy.net"
-    },
-    {
+    "email": "edoardo.ghepardi@speedy.net",
+    "data": "2020-11-05",
+    "ora": "11.30"
+  },
+  {
     "id": 24,
-    "data": "2019-08-10",
-    "ora": "18.00",
     "nome": "Greta",
     "cognome": "Ippopotami",
     "indirizzo": "Fiume Largo 9",
     "telefono": "3337788990",
-    "email": "greta.ippopotami@river.com"
-    },
-    {
+    "email": "greta.ippopotami@river.com",
+    "data": "2019-08-10",
+    "ora": "18.00"
+  },
+  {
     "id": 25,
-    "data": "2020-12-15",
-    "ora": "10.45",
     "nome": "Lorenzo",
     "cognome": "Koala",
     "indirizzo": "Albero di Eucalipto 17",
     "telefono": "3478899001",
-    "email": "lorenzo.koala@eucalyptus.org"
-    },
-    {
+    "email": "lorenzo.koala@eucalyptus.org",
+    "data": "2020-12-15",
+    "ora": "10.45"
+  },
+  {
     "id": 26,
-    "data": "2019-09-08",
-    "ora": "14.30",
     "nome": "Alice",
     "cognome": "Pavoni",
     "indirizzo": "Giardino Esotico 2",
     "telefono": "3389900112",
-    "email": "alice.pavoni@peacockmail.com"
-    },
-    {
+    "email": "alice.pavoni@peacockmail.com",
+    "data": "2019-09-08",
+    "ora": "14.30"
+  },
+  {
     "id": 27,
-    "data": "2020-07-22",
-    "ora": "12.00",
     "nome": "Gabriele",
     "cognome": "Lontre",
     "indirizzo": "Ruscello Vivace 14",
     "telefono": "3490011223",
-    "email": "gabriele.lontre@stream.net"
-    }
-  ]
-}
-
+    "email": "gabriele.lontre@stream.net",
+    "data": "2020-07-22",
+    "ora": "12.00"
+  }
+]
